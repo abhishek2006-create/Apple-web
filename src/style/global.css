@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #f7f6f6bd;
+    color: #1d1d1f;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
